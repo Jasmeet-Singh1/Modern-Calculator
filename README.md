@@ -1,3 +1,3 @@
-# Simon Game Project
-This is a memory pattern game with sounds included created with the help of javascript framework React
+# Modern Calculator
+You can calculate a long mathematical expression
  
